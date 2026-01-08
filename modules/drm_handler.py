@@ -19,7 +19,7 @@ from base64 import b64encode, b64decode
 from logs import logging
 from bs4 import BeautifulSoup
 
-from saini import download_m3u8
+#from saini import download_m3u8
 import saini as helper
 import html_handler
 import globals
